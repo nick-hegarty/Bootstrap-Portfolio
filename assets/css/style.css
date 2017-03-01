@@ -1,6 +1,19 @@
 .navbar-brand{
 	font-size:35px !important;
+	font-family:'Roboto Mono', monospace;;
 }
- p, h1{
- 	padding:10px;
- }
+
+
+body{
+	background-color:#cef2f2;
+	font-family:'Roboto Slab', serif !important;
+}
+
+h1, h2, h3, h4, h5, p{
+	font-family:'Roboto Mono', monospace;;
+}
+
+li{
+	font-family:'Roboto Mono', monospace;;
+}
+ /* how did the text change then change back....even my padding changed?!*/
